@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**siva090-afk/siva090-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello! 👋 I'm Santhosh, a passionate web developer and tech enthusiast.  
+- 💻 I love building interactive and modern websites.  
+- 🚀 Skilled in HTML, CSS, JavaScript, and UI/UX design.  
+- 🎨 Focused on creating sleek, user-friendly web experiences.  
+- 📚 Always learning and exploring new technologies.  
+- 🌍 Let's connect and build something amazing together!  
+
+
+
